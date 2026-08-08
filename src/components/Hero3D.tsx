@@ -105,10 +105,12 @@ export default function Hero3D() {
         </h2>
         
         <p className="text-gray-400 text-lg max-w-xl mb-10 leading-relaxed font-mono">
-          > INITIALIZING SYSTEM...<br />
-          > 300+ DSA PROBLEMS SOLVED...<br />
-          > SYSTEM ARCHITECTURE ONLINE...
-        </p>
+    {"> INITIALIZING SYSTEM..."}
+    <br />
+    {"> 300+ DSA PROBLEMS SOLVED..."}
+    <br />
+    {"> SYSTEM ARCHITECTURE ONLINE..."}
+</p>
 
         {/* Action Button */}
         <div className="pointer-events-auto">
