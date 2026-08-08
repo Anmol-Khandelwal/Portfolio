@@ -104,7 +104,7 @@ export default function Hero3D() {
           LVL 20 • {profile.role}
         </h2>
         
-        <p className="text-gray-400 text-lg max-w-xl mb-10 leading-relaxed font-mono">
+       <p className="text-gray-400 text-lg max-w-xl mb-10 leading-relaxed font-mono">
     {"> INITIALIZING SYSTEM..."}
     <br />
     {"> 300+ DSA PROBLEMS SOLVED..."}
