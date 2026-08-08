@@ -27,12 +27,12 @@ export default function Hero3D() {
         </h2>
         
         <p className="text-gray-400 text-lg max-w-xl mb-10 leading-relaxed font-mono">
-          <div>
-  &gt; INITIALIZING SYSTEM...
-  &gt; 300+ DSA PROBLEMS SOLVED...
-  &gt; SYSTEM ARCHITECTURE ONLINE...
-</div>
-        </p>
+    {"> INITIALIZING SYSTEM..."}
+    <br />
+    {"> 300+ DSA PROBLEMS SOLVED..."}
+    <br />
+    {"> SYSTEM ARCHITECTURE ONLINE..."}
+</p>
       </motion.div>
     </section>
   )
